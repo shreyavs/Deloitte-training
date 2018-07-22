@@ -1,0 +1,18 @@
+.header{
+    padding: 5px;
+    font-family: sans-serif;
+}
+.Content_selection{
+    padding: 5px;
+    font-family: arial;
+}
+.display_content{
+    padding: 5px;
+    font-family: arial;
+    background-color:wheat;
+}
+.footer{
+    padding: 3px;
+    font-family: arial;
+}
+

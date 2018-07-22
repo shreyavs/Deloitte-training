@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(253, 182, 156);
+    padding: 10px;
+    
+}
+.header_class{
+    color: maroon;
+    padding: 10px;
+}
+#form_id{
+    background-color: white;
+    padding: 10px;
+}
+.input_field{
+    color: midnightblue;
+}
+.button_id{
+    background-color: black;
+    color:red;
+    padding: 10px;
+}
+#iframe_id{
+    background-color: white;
+    width:100%;
+}
+table, td, th{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: pink;
+    border: 1px solid;
+    
+}
+.iframe_div{
+    
+    padding: 10px;
+}
+.table_div{
+    position: static;
+}

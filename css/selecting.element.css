@@ -1,0 +1,13 @@
+.paragraph_class{
+    color: brown;
+}
+.h4{
+    color:green;
+    margin: 25px 50px 75px 100px;
+}
+.content_class p{
+    color: blue;
+}
+.content_class h4{
+    color: pink;
+}

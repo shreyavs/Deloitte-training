@@ -1,0 +1,19 @@
+.parent_class{
+    position: relative;
+    color: rgb(165, 165, 250);
+    margin: 30px 20px 10px 20px;
+}
+.child_class{
+    position: absolute;
+    color: red;
+    margin: 50px 100px 100px 50px;
+    
+}
+.image_class{
+    position: absolute;
+    z-index: -1;
+}
+.content_fixed{
+    float: left;
+    clear: both;
+}

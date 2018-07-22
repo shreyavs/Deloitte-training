@@ -1,0 +1,19 @@
+/* These are class selectors */
+.heading_class{
+    background-color:wheat;
+    padding: 20px;
+}
+.paragraph_class{
+    background-color: maroon;
+    color: white;
+    padding: 10px;
+    
+}
+/* These are element selectors */
+h3{
+    color: green;
+ 
+}
+p{
+    color: green !important;
+}
