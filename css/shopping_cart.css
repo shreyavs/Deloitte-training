@@ -1,0 +1,23 @@
+.body{
+    position: relative;
+    
+}
+.size{
+    float:left;
+    height:300px;
+    width: 300px;
+}
+
+.img_resize{
+    height: 200px;
+    width:150px;
+}
+table, th{
+    padding: 10px;
+}
+table, td{
+    padding: 10px;
+}
+#shopping_cart{
+    padding: 10px;
+}

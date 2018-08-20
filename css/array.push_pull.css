@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(121, 139, 89);
+    margin-left: 200px;
+    
+}
+#form{
+    width: 500px;
+    height: 250px;
+    margin: 10px;
+    padding:10px;
+}
+#heading{
+    margin:10px;
+}
+.text_box{
+    padding:5px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+#submit{
+    padding:5px;
+    margin-top:5px;
+    margin-bottom:5px;
+    width:100px;
+}
+#table_id{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+#table,tr,td, th{
+    border:1px solid black;
+}

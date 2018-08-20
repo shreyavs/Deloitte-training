@@ -1,0 +1,411 @@
+
+/* I found this reset.css file inside a jquery image slider demo, but it was never included in the main index.html file. what is is suppose to do, and more importantly, where do you put it? Do you put it before any referenced stylesheets()?
+
+Here is the code inside reset.css */
+
+/* CSS reset */
+
+/* .collapsible {
+    cursor: pointer;
+  }
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    position: relative;
+
+}
+.active, .collapsible:hover {
+    background-color: #ccc;
+  } */
+
+@media screen and (min-width:1024px){   
+    
+
+    .side_bar{
+        width: 15%;
+        height: 620px;
+        background-color: lightgrey;
+        padding: 20px;
+        margin-left: 80px;
+        
+    }
+    #header_small_screen{
+        display: none;
+    }
+    /* #logo_element{
+        height: 65px;
+    }
+    #logo{
+        float:left;
+    }
+    #back_button{
+        float:right;
+        background-color: black;
+        color: white;
+        margin-top: 12px;
+        font-family:sans-serif;
+    } */
+    
+    /* .img_d:hover{
+        width: 300px;
+    } */
+    .O{
+        color:red;
+    }
+    a:link {
+        color: black;
+        text-decoration: none;
+    }
+    
+    /* visited link */
+    a:visited {
+        color: black;
+        text-decoration: none;
+    }
+    
+    /* mouse over link */
+    a:hover {
+        color: hotpink;
+    }
+    
+    /* selected link */
+    a:active {
+        color: blue;
+    }
+    h5{
+        color:gray;
+        padding-left: 15px;
+    }
+    .user{
+        position: relative;
+        margin-top: 110px;
+    }
+    .dan{
+        height:50px;
+        width:50px;
+        border-radius: 50%;
+    }
+    .dan_nam{
+        position: relative;
+        bottom: 18px;
+        left: 10px;
+    }
+    #logo_button{
+        display: none;
+    }
+    .body{
+        width: 85%;
+        position: relative;
+        bottom: 640px;
+        left: 182px;
+    
+    }
+    .search{
+        width: 86%;
+        float: right;
+        clear: both;
+    }
+    .search_image{
+        height:15px;
+        width:15px;
+    }
+    .search_box{
+        width:480px;
+        height: 20px;
+        padding-left: 5px;
+        border: 1 solid grey;
+    }
+    #purchase{
+        background-color: palevioletred;
+        color: white;
+        float: right;
+        padding: 0px;
+        font-size: 10px;
+        margin-right: 20px;
+        margin-top: -2px;
+    }
+    .body_a{
+        float: right;
+        clear: both;
+        width: 86%;
+        margin-top: 5px;
+       
+    }
+    .accordion{
+        float: right;
+        clear: both;
+        width: 85%;
+        height: 165px;
+    
+    }
+    .img_a{
+        padding-right:45px;
+        width: 145px; 
+    }
+    
+    .body_b{
+        float: right;
+        clear: both;
+        width: 90%;
+    
+    }
+    .add{
+        height: 20px;
+        width: 20px;
+        float: left;
+    }
+    .add_info{
+        position: relative;
+        bottom: 15px;
+        left: 12px;
+        float: left;
+        color: lightgray;
+    }
+    .user_add{
+        box-shadow: 1px 3px 20px 0px;
+        width: 36%;
+        height: 47px;
+        padding: 15px;
+        margin-left: 48px;
+    }
+    .video_tut{
+        float: right;
+        background-color: gray;
+        font-family: cursive;
+    
+        padding: 5px;
+        font-size: 60%;
+    }
+    #heading{
+        color: black;
+    }
+    .body_c{
+        float: right;
+        clear: both;
+        width: 48%;
+        position: relative;
+        bottom: 352px;
+        margin-top: -12px;
+       
+    }
+    .user_updates{
+        box-shadow: 1px 3px 20px 0px;
+        width: 90%;
+        height: 250px;
+        padding: 15px;
+        color: rgb(134, 134, 134);
+        background-color: #F6F1F1;
+        margin-left: 7px;
+    }
+    number{
+        background-color: rgb(180, 180, 180);
+        padding:6px;
+        border-radius:50%;
+        float:left;
+        margin-right: 10px;
+        color: rgb(128, 128, 128);
+    }
+    .update_p{
+        font-size: 75%;
+    }
+
+}
+
+@media screen and (min-width:480px){
+
+    .side_bar{
+        display: none;
+    }
+    /* #logo_element{
+        height: 65px;
+    }
+    #logo{
+        float:left;
+    }*/
+    #back_button{
+       display: none;
+    }
+   
+    /* .img_d:hover{
+        width: 300px;
+    } */
+    .O{
+        color:red;
+    }
+    a:link {
+        color: black;
+        text-decoration: none;
+    }
+    
+    /* visited link */
+    a:visited {
+        color: black;
+        text-decoration: none;
+    }
+    
+    /* mouse over link */
+    a:hover {
+        color: hotpink;
+    }
+    
+    /* selected link */
+    a:active {
+        color: blue;
+    }
+    h5{
+        color:gray;
+        padding-left: 15px;
+    }
+    .user{
+        position: relative;
+        margin-top: 110px;
+    }
+    #panel{
+        padding: 0 18px;
+        background-color: white;
+        display: none;
+        overflow: hidden;
+    }
+    /* .dan{
+        height:50px;
+        width:50px;
+        border-radius: 50%;
+    }
+    .dan_nam{
+        position: relative;
+        bottom: 18px;
+        left: 10px;
+    } */
+    .body{
+        width: 100%;
+        position: relative;
+    }
+    #header_small_screen{
+        position: relative;
+        height: 65px;
+    }
+    
+    .search{
+        float:left;
+        width: 465px;
+        margin-left:10px;
+
+    }
+    .search_image{
+        height:15px;
+        width:15px;
+        margin-right: 2px;
+    }
+    .search_box{
+        width: 380px;
+        height: 20px;
+        padding: 5px 0px 5px 5px;  
+        border: 1 solid grey;
+    }
+    #purchase{
+        float: left;
+        padding: 0px;
+        background: linear-gradient(to right, hotpink, orange);
+        margin-top: 5px;
+        margin-left: 20px;
+        width:390px;
+        height:30px;
+
+    }
+    .ham_div{
+        width: 30px;
+        height: 2px;
+        background-color: black;
+        margin: 6px 0;
+    }
+    #ham_button{
+        float: right;
+        margin-right: -12px;
+        margin-top: -69px;
+    }
+
+    .body_a{
+        position: relative;
+        margin-top: 30px;
+        width: 100px;      
+    }
+    .accordion{
+
+        width: 465px;
+        height: 300px;
+    
+    }
+    .img_a{
+        padding-right:45px;
+        width: 175px;
+        position: relative;
+        left:35px;
+        padding-bottom: 10px;
+    }
+    
+    .body_b{
+        position: relative;
+        width: 540px;
+    
+    }
+    .add{
+        height: 20px;
+        width: 20px;
+        float: left;
+    }
+    .add_info{
+        position: relative;
+        bottom: 15px;
+        left: 12px;
+        float: left;
+        color: lightgray;
+    }
+    .user_add{
+        box-shadow: 1px 3px 20px 0px;
+        width: 345px;
+        height: 45px;
+        padding: 15px;
+        margin-left: 48px;
+    }
+    .video_tut{
+
+        background-color: gray;
+        font-family: cursive;
+        float: right;
+        margin-top: 10px;
+        padding: 5px;
+        font-size: 20%;
+    }
+    #heading{
+        color: black;
+    }
+    .body_c{
+        
+        width: 200px;
+        position: relative;
+        
+       
+    }
+    .user_updates{
+        box-shadow: 1px 3px 20px 0px;
+        width: 380px;
+        height: 130px;
+        padding: 15px;
+        color: rgb(134, 134, 134);
+        background-color: #F6F1F1;
+        margin-left: 30px;
+    }
+    number{
+        background-color: rgb(180, 180, 180);
+        padding:6px;
+        border-radius:50%;
+        float:left;
+        margin-right: 10px;
+        color: rgb(128, 128, 128);
+    }
+    .update_p{
+        height: 10px;
+        font-size: 15%;
+    }
+}

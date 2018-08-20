@@ -1,0 +1,188 @@
+#body_wrapper{
+    background-color: #ffe2a0;
+    height: 4090px;
+    width: 1400px;
+    padding-top: 80px;
+}
+/* #header{
+    background-color: #ffdb8f;
+    height:475px;   
+    box-shadow: 10px 10px #ffdb8f;
+    position: relative;
+}
+#heading{
+    padding-top:100px;
+    padding-bottom: 100px;
+    
+}
+#neststrix_studio{
+    color:#b25e2c;
+    font-family: 'Cinzel Bold';
+    font-size: 19.66pt;
+    margin-bottom: 0px;
+}
+#hotel_ui_kit{
+    color: #7c4521;
+    font-family: 'Cinzel Bold';
+    font-size: 71.12pt;
+    margin: 0px;
+}
+#info{
+    
+    margin-left: 137px;
+    margin-right: 137px;
+}
+.info_dim{
+    height: 90px;
+    width: 350px;
+}
+.info_img_dim{
+    position: relative;
+    right: 25px;
+    top: -5px;
+}
+.info_icon_dim{
+    position: relative;
+    right: 132px;
+    bottom: 100px;
+}
+.info_p{
+    position: relative;
+    top: -150px;
+    right: -40px;
+    color: #7c4521;
+    font-size: 16pt;
+} */
+
+#stats{
+    position: relative;
+    width:1239px;
+    height:662px;
+    margin-left:80px;
+}
+#stats_header{
+    background-color: #ffffff;
+    height:100px;
+
+}
+#stats_heading_1{
+    position: relative;
+    float:left;
+    left: 40px;
+}
+#stats_heading{
+    position: relative;
+    
+    font-size: 34px;
+    font-family: 'Cinzel Bold';
+    color: #7c4521;
+}
+.legend{
+    float: left;
+    padding-top: 28px;
+    padding-left: 96px;
+}
+.legend {
+    list-style: none;
+ }
+.legend li { 
+    float: left; 
+    margin-right: 10px; 
+}
+.legend span { 
+
+    border-radius: 50%; 
+    float: left; 
+    width: 12px; 
+    height: 12px; 
+    margin: 2px; 
+}
+.legend .real { 
+    background-color: #cc9972; 
+
+}
+.legend_real { 
+    color: #cc9972;
+    font-family: 'Gotham Medium';
+    font-size:12px; 
+
+}
+.legend .planned { 
+    background-color: #dfb873;
+
+}
+.legend_planned { 
+    font-family: 'Gotham Medium';
+    font-size:12px; 
+    color: #dfb873;
+}
+.stats_navbar{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: #ffffff;
+}
+.stats_navbar_list li{
+    float: left;
+    border-right: 1px solid #bbb;
+}
+.stats_navbar_list li:last-child{
+    border-right: none;
+}
+.stats_navbar_listr li a{
+    display:block;
+    color:#966a4d;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration: none;
+    font-size:12px;
+    font-family:'Montserrat';
+}
+.stats_navbar_list li a:hover{
+    background-color: #e2be6b;
+}
+.active{
+    background-color: #e2be6b;
+}
+.stats_navbar{
+    width:217px;
+    position: relative;
+    bottom: 25px;
+    right:35px;
+    float: right;
+}
+#chart_div{
+    width: 855px;
+    height: 560px;
+}
+
+#stats_right{
+    float:right;
+    width:390px;
+
+}
+#standart{
+    background-color: #ffffff;
+}
+#family{
+    background-color: #ffffff;
+}
+.stats_img{
+    float:left;
+    width:80px;
+    height:82px;
+    margin-left: 31px;
+}
+.stats_para1{
+    float:left;
+    font-family: 'Gotham BookItalic';
+    font-size:12px;
+    margin-left:22px;
+}
+.stats_heading{
+    font-family: 'Cinzel Black';
+    font-size:22px;
+
+}
+

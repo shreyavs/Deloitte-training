@@ -1,0 +1,101 @@
+body{
+    background-image: url(pg4_bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#title{
+    font-size: 5vw;
+    color:white;
+    font-family: Arial;
+    position: relative;
+    /* top: 20px; */
+    text-align: center;
+
+}
+.row1{
+    margin-top: 5%;
+}
+.row2{
+    margin-top: 5%;
+}
+.row3{
+    margin-top: 5%;
+}
+#menu_btn{
+    width: 7vw;
+    position: relative;
+    
+}
+#search_btn{
+    width: 7vw;
+    /* position: relative;
+    top: 20px; */
+    float: right;
+}
+#pg4_pic{
+    width: 100%;
+    /* position: absolute;
+    top: 26vh;
+    left: 30vw; */
+}
+.pg4_pic{
+    
+    margin-top: 34.8%;
+    margin-left: 33%;
+    clear: both;
+   
+}
+#pg4_star{
+    width: 100%;
+    z-index: 3;
+    
+    
+    
+}
+.pg4_star{
+    position: absolute;
+    margin-top: 35%;
+    /* margin-right: 4%; */
+    margin-left: 51%;
+    z-index: 10;
+    clear: both;
+}
+.name{
+    text-align: center;
+    
+    font-weight: bold;
+    font-size: 8vw;
+}
+.place{
+    text-align: center;
+    font-size: 3vw;
+}
+#photo{
+    width: 50%;
+    
+
+}
+#heart{
+    width: 50%;
+    float: right;
+    
+}
+.photo_img{
+    margin-top: 2%;
+
+}
+.heart_img{
+    margin-top: 2%;
+}
+#update_icon{
+    width: 75%;
+}
+.load{
+    text-align: center;
+    font-size: 6vw;
+    color: gray;
+}
+.footer{
+    margin-top: 25%;
+}

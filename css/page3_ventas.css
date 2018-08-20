@@ -1,0 +1,124 @@
+.main_page{
+    background-image: url(./bgs/bg_main.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    margin-top: 18%;
+    width: 22%;
+}
+.text{
+    margin-top: 23%;
+    width: 61%;
+}
+.load{
+    margin-top:74%;
+    width: 14%;
+    margin-bottom: 10%;
+}
+.news_page{
+    background: white;
+    position: absolute;
+    width: 100%;
+}
+.cf3{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.top{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+}
+.hams2{
+    padding-left: 8vw;
+    margin-top: 8vw;
+    font-size: 5vw;
+    color: black;
+    text-align: left;
+}
+.venta2{
+    margin-top: 7vw;
+    font-size: 5vw;
+    color:black;
+    text-align: center;
+}
+.searcher2{
+    margin-top: 8vw;
+    padding-right: 6vw;
+    font-size: 5vw;
+    color:black;
+    text-align: right;
+}
+.butts{
+    height: 20vw;
+    background: none;
+    border: none;
+    border-bottom: 1px solid gray;
+    font-weight: bold;
+    font-size: 3vw;
+}
+.butts:active { 
+    background-color: gray;
+}
+.p2text{
+    font-size: 2.5vw;
+}
+.readm{
+    font-size: 3vw;
+    border: none;
+    background: none;
+}
+.butt2{
+    border-top: 1px solid gray;
+    height: 20vw;
+
+}
+img{
+    max-width:100%;
+}
+.inbox_people {
+    float: left;
+    overflow: hidden;
+    width: 100%;
+}
+.inbox_msg {
+    clear: both;
+    overflow: hidden;
+}
+.chat_ib h5{
+    font-size:16px; 
+    margin:0 0 8px 0;
+    font-weight: bold;
+}
+.chat_ib h5 span{ 
+    font-size:10px; 
+    float:right;
+}
+.chat_ib p{ 
+    font-size:14px; 
+    color:#989898; 
+    margin:auto
+}
+.chat_img {
+  float: left;
+  width: 11%;
+}
+.chat_ib {
+  float: left;
+  padding: 0 0 0 15px;
+  width: 88%;
+}
+.chat_people{ 
+    overflow:hidden;
+    clear:both;
+}
+.chat_list {
+    border-bottom: 1px solid #c4c4c4;
+    margin: 0;
+    padding: 18px 16px 10px;
+}
+.link-position{
+    padding: 10px;
+    padding-top:20px;
+}

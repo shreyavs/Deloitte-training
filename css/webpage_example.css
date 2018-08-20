@@ -1,0 +1,144 @@
+body{
+    font-family: serif;
+}
+.header{
+    position: relative;
+    float: right;
+    height: 50px;
+    width: 1000px;
+
+}
+.left_content{
+    height: 500px;
+    float: left;
+    width: 337px;
+}
+#search_bar{
+    float:left;
+    height: 30px;
+    width: 270px;
+    margin-top: 10px;
+}
+#purchase_button{
+    float: right;
+    padding:10px;
+    background: linear-gradient(to right,rgb(219, 51, 79), rgb(247, 141, 3));
+    color:white;
+    border-radius: 5px;
+    font-family: serif;
+    width:120px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.quick_access{
+    margin-top: 10px;
+    height: 200px;
+    position: relative;
+    float: left;
+    
+}
+#access_image1{
+    margin-left: -10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    float:left;
+    padding-bottom:5px;   
+}
+#access_image2{
+    margin-left: -10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    float:left;
+    padding-bottom:5px;
+}
+#access_image3{
+    margin-left: -10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    float:left;
+    padding-bottom:5px;
+}
+#access_image4{
+    margin-left: -10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    float:left;
+    padding-bottom:5px;
+}
+h3{
+    color: lightgrey;
+    font-family: serif;
+}
+.nav{
+    position: relative;
+}
+
+.image_height{
+
+    width: 200px;
+    height: 135px;
+
+}
+.cap_style{
+    padding-left: 10px;
+}
+.video{
+    margin-top: 10px;
+    height: 85px;
+    width: 420px;
+}
+.video_tutorials{
+    position: relative;
+    float: left;
+    margin-top: 60px;
+    width: 420px;
+}
+.acc_img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    float: left;
+    margin-top: 18px;
+}
+.video_text{
+    float:left;
+    margin-left: 10px;
+    width: 215px;
+
+}
+.video_button{
+    float:right;
+    margin-top:25px;
+    padding:10px;
+    background-color: rgb(150, 150, 150);
+    color: white;
+
+}
+.content{
+    
+}
+.recent_updates{
+    position: relative;
+    float: right;
+    width: 555px;
+    margin-bottom: 20px;
+    margin-top: 60px;
+}
+.update{
+    position: relative;
+    float:left;
+    border: 1px solid rgb(225, 214, 214);
+    background: #F6F1F1;
+}
+
+.update_num{
+ height: 21px;
+    margin-left: 10px;
+    border-radius: 50%;
+    float:left;
+    padding: 10px;
+    background-color: rgb(189, 187, 187);
+}
+.update_content{
+    float:left;
+    margin-left: 5px;
+    padding-left: 12px;
+    width: 440px;
+    height: 21px; 
+}

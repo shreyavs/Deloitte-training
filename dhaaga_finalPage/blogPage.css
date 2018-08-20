@@ -1,0 +1,311 @@
+@media screen and (max-width: 1400px) {
+    header{
+        position: sticky;
+    }
+    #dhaaga_blogNavigation{
+        background-color: rgba(19,35,47,0.9);
+        background-position: cover; 
+        position: relative;
+        padding-bottom: 2vw;
+        height: 8vw;
+    }
+    #logo_img{
+        width: 30vw;
+        height: 10vw;
+        margin-top: 5vw;
+        margin-left: 32.5vw;
+    }
+    #sectionLeftList{
+        float:left;
+        clear: both;
+        margin-left: -4vw;
+
+    }
+    #sectionLeft{
+        padding:3vw;
+    }
+    ol ul li{    
+        list-style: none;
+        font-size: 1.5vw;
+    }
+    #dhaaga_blogNavigation  ul li {
+        border: none;
+        color:white;
+        font-size: 1.7vw;
+    }
+    #sectionLeftList li {
+        display: inline-block;
+        margin-right: 1.5vw;
+        position: relative;
+    }
+    a{
+        color:white;
+    }
+    #navIcons{
+        margin-top: 2vw;
+        float: right;
+
+    }
+    #blogSerach{
+        float:right;
+    }
+    #sectionRightList{
+        float: right;
+    }
+    .resize_icon{
+        color: white;
+        padding:0.5vw;
+    }
+    #lastIcon{
+        margin-right: 1vw;
+    }
+    .content{
+        margin:5vw; 
+        background-color: #e1c1c6;
+        height: 75vw;
+        position: relative;
+    }
+    #article1{
+        margin:5vw; 
+        margin-right: 4vw;
+        background-color: white;
+        height: 28vw;
+        width:25vw;
+
+        float: left;
+        clear:both;
+    }
+    #article2{
+        margin:5vw; 
+        margin-left: 0vw;
+        background-color: white;
+        height: 40vw;
+        width:25vw;
+
+        float: left;
+    }
+    #article3{
+        margin-left:5vw; 
+        margin-top: -13vw;
+        margin-right: 4vw;
+        background-color: white;
+        height: 28vw;
+        width:25vw;
+
+        float: left;
+        clear:both;
+    }
+    #article4{
+        margin-top: -1vw;
+        margin-left: 0vw;
+        margin-right: 3vw;
+        background-color: white;
+        height: 20vw;
+        width:25vw;
+
+        float: left;
+    }
+    #article5{
+        margin-top: -64vw;
+        margin-right: 4vw;
+        margin-left: 0vw;
+        background-color: white;
+        height: 30vw;
+        width:18vw;
+        float: right;
+        clear:both;
+
+    }
+    #article6{
+
+        margin-top: -30vw;
+        margin-right: 4vw;
+        background-color: white;
+        height: 26vw;
+        width:18vw;
+        float: right;
+        clear:both;
+
+    }
+    .subscriptionForm{
+        background-color: #ffeaad;
+        height: 35vw;
+        width: 40vw;
+        margin-left: 6vw;
+        margin-top: -2vw;
+        float:left;
+    }
+    #subscriptionHeading{
+        margin-top: -1vw;
+        padding-bottom: 1vw;
+        font-style: bold;
+        color:#c54c55;
+        font-size: 2vw;
+    }
+    p{
+        font-size: 1vw;
+    }
+    #formResize{
+        margin: 5vw;
+    }
+    #subscribeButton{
+        background-color: #c54c55;
+        color:white;
+        width:20vw;
+        height: 3vw;
+        padding: 0.5vw;
+        margin-top: 1vw;
+        font-size: 1.2  cxzvw;
+    }
+    .stats{
+        position: relative;
+        height: 30vw;
+        width: 40vw;
+        background-color: #ffeaad;
+        float:left;
+        margin-left: 4.5vw;
+        margin-top: -2vw;
+    }
+    .statSize{
+        width:10vw;
+        height:10vw;
+        background-color: white;
+        position: absolute;
+        margin:2vw;
+    }
+    .labelResize{
+        font-size:1vw;
+    }
+    .inputResize{
+        width:30vw;
+        height:2.5vw;
+        margin-bottom: -1vw;
+    }
+}
+
+
+@media screen and (max-width: 991px) {
+    header{
+        position: sticky;
+    }
+    #dhaaga_blogNavigation{
+        background-color: rgba(19,35,47,0.9);
+        background-position: cover; 
+        position: relative;
+        padding-bottom: 2vw;
+        height: 8vw;
+    }
+    #logo_img{
+        width: 30vw;
+        height: 10vw;
+        margin-top: 5vw;
+        margin-left: 32.5vw;
+    }
+    #sectionLeftList{
+        float:left;
+        clear: both;
+        margin-left: -4vw;
+
+    }
+    #sectionLeft{
+        padding:2vw;
+    }
+    ol ul li{    
+        list-style: none;
+        font-size: 1.5vw;
+    }
+    #dhaaga_blogNavigation  ul li {
+        border: none;
+        color:white;
+        font-size: 1.7vw;
+    }
+    #sectionLeftList li {
+        display: inline-block;
+        margin-right: 1.5vw;
+        position: relative;
+    }
+    a{
+        color:white;
+    }
+    #navIcons{
+        margin-top: -2vw;
+        float: right;
+    
+    }
+    #blogSerach{
+        float:right;
+    }
+    #sectionRightList{
+        float: right;
+    }
+    .resize_icon{
+        color: white;
+        padding:0.5vw;
+    }
+    #lastIcon{
+        margin-right: 1vw;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    header{
+        position: sticky;
+    }
+    #dhaaga_blogNavigation{
+        background-color: rgba(19,35,47,0.9);
+        background-position: cover; 
+        position: relative;
+        padding-bottom: 2vw;
+        height: 8vw;
+    }
+    #logo_img{
+        width: 30vw;
+        height: 10vw;
+        margin-top: 5vw;
+        margin-left: 32.5vw;
+    }
+    #sectionLeftList{
+        float:left;
+        clear: both;
+        margin-left: -4vw;
+
+    }
+    #sectionLeft{
+        padding: 1vw;
+    }
+    ol ul li{    
+        list-style: none;
+        font-size: 1.5vw;
+    }
+    #dhaaga_blogNavigation  ul li {
+        border: none;
+        color:white;
+        font-size: 1.7vw;
+    }
+    #sectionLeftList li {
+        display: inline-block;
+        margin-right: 1.5vw;
+        position: relative;
+    }
+    a{
+        color:white;
+    }
+    #navIcons{
+        margin-top: -1vw;
+        float: right;
+    
+    }
+    #blogSerach{
+        float:right;
+    }
+    #sectionRightList{
+        float: right;
+    }
+    .resize_icon{
+        color: white;
+        padding:0.5vw;
+    }
+    #lastIcon{
+        margin-right: 1vw;
+    }
+}

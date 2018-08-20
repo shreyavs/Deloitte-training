@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User details form:</title>
+<link rel="stylesheet" href="D:\UI_ShreyaSheelvant_Deloitte_2018\css\profile_js.css">
+
+</head>
+<body>
+    <h2>USER DETAILS</h2>
+<div id="form_id">
+    <table>
+        <tr>
+            <td>Username:</td>
+            <td class="input_data"><input type="text" name="username" id="username" placeholder="Please enter your name" class="input_field"></td>
+        </tr>
+        <tr>
+            <td>Mail-id:</td>
+            <td><input type="email" name="mailID" id="emailid" placeholder="Please enter your email" class="input_field"></td>
+        </tr>
+        <tr>
+            <td>Gender:</td>
+            <td><select id="gender" >
+                    <option value="Male">Male</option>
+                    <option value="Female">Felmale</option>
+                    <option value="Others">Others</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Country:</td>
+            <td><input type="text" name="country" id="country" placeholder="Please enter your country" class="input_field"></td>
+        </tr>
+        <tr>
+            <td>Phone no.:</td>
+            <td><input type="text" name="phonenumber" id="phonenumber" placeholder="Please enter your phone number" class="input_field"></td>
+        </tr>
+    </table>
+  
+    <br>
+    <button type="submit" value="Submit" class="button_id" onclick="mainFunction(document.getElementById('username'),document.getElementById('emailid'),document.getElementById('country'),document.getElementById('phonenumber'))"> Submit </button>
+    </div>
+<script src="file:///D:\UI_ShreyaSheelvant_Deloitte_2018\html\profile_js.js "></script>
+</body>
+</html>

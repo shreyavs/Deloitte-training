@@ -1,0 +1,45 @@
+.start_page{
+    position: relative;
+}
+.container{
+    position: absolute;
+}
+.spaces{
+    margin-top:10vw;
+    padding-left: 5vw;
+    height: 12.3vw;
+    width: 21.8vw;
+
+}
+#heading{
+    margin-top:13vw;
+    margin-left: 13vw;
+    font-family: 'Raleway Heavy';
+    font-size: 6.45vw;
+    color:#002b41;
+}
+#decsription_line{
+    margin-left: 14vw;
+    margin-right: 14vw;
+    border-top: 0.3vw solid #eee;
+    color:#cad2d7;
+
+}
+#description{
+    position: absolute;
+    font-family: 'Raleway';
+    margin-left: 22vw;
+    padding-left: 2vw;
+    margin-top: -4.25vw;
+    padding-right: 2vw;
+    font-size: 2.9vw;
+    color:#002b41;
+
+    background-color: #ffffff;
+}
+.buffer_spaces{
+    margin-top: 84vw;
+    padding-left: 10vw;
+    height: 8.4vw;
+    width: 18.3vw
+}

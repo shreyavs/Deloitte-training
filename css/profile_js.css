@@ -1,0 +1,46 @@
+body{
+    margin-left: 200px;
+    margin-top: 50px;
+    background-color: antiquewhite;
+    padding: 20px; 
+}
+h2{
+    font-family: 'Lucida Sans';
+}
+.input_field{
+    color: midnightblue;
+}
+.button_id{
+    background-color: black;
+    color:white;
+    padding: 10px;
+    width: 235px;
+    margin-top: 10px;
+    margin-left: 88px;
+}
+
+#username{
+    margin: 10px;
+    height: 30px;
+    width: 120%;
+}
+#emailid{
+    margin: 10px;
+    height: 30px;
+    width: 120%;
+}
+#gender{
+    margin: 10px;
+    height: 30px;
+    width: 120%;
+}
+#country{
+    margin: 10px;
+    height: 30px;
+    width: 120%;
+}
+#phonenumber{
+    margin: 10px;
+    width: 120%;
+    height: 30px;
+}

@@ -1,0 +1,93 @@
+body{
+    background-color: antiquewhite;
+}
+.header{
+    position: relative;
+    height:80px;
+}
+.brand_logo{
+    position:relative;
+    width:150px;
+    height:60px;
+}
+.brand_name{
+    position:relative;
+    padding-top: 10px;
+    padding-left: 10px;
+    width:400px;
+    height:60px;
+}
+.header_logo{
+    float:left;
+    width:730px;
+}
+.header_nav{
+    position: relative;
+    float:right;
+}
+.button_class{
+    border-radius: 20px;
+}
+.icon_class{
+    width: 24px;
+    height: 24px;
+    padding-left: 6px;
+}
+.selection_menu{
+    padding-top:20px;
+    padding-left: 500px;
+}
+
+.sales_image{
+    padding-top: 30px;
+    width:864px;
+    height:140px;
+}
+.h3_heading{
+    font-family: 'Trebuchet MS';
+}
+.topbrands_image{
+    width:864px;
+    height:100px;
+    padding-bottom: 10px;
+}
+
+.announcements_display{
+    text-align: center;
+}
+.top_brands_display{
+    text-align: center;
+}
+.footer{
+    position: relative;
+    padding-top: 20px;
+}
+.footer_headings{
+    padding-left: 30px;
+}
+.list_class{
+    list-style-type: circle;
+}
+.help_menu{
+    float:left;
+    padding-left: 200px;
+    width:15%;
+}
+.policies_menu{
+    float:left;
+    width:20%;
+}
+.aboutus_menu{
+    float:left;
+    width:20%;
+}
+.followus_images{
+    float:left;
+    width:15%;
+}
+a:hover{
+    color:hotpink;
+}
+a:link{
+    color:blue;
+}

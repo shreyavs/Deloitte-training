@@ -1,0 +1,46 @@
+.article_page{
+    background-image: url("bg_img_pg5.png");
+    background-size: cover;
+}
+.contents{
+    width: 84vw;
+    margin: 8.05vw;
+
+}
+#heading{
+    margin-left: 19.98vw;
+    margin-right: 19.98vw;
+    margin-bottom: 4.43vw;
+    padding-top: 8.45vw;
+    font-family: 'Raleway Bold';
+    font-size: 5.8vw;
+    color:#ffffff;
+    text-align: center;
+}
+#para1{
+    margin-top: 21.1vw;
+    line-height: 5.64vw;
+    font-family: 'Raleway Bold', 'Raleway';
+    font-size: 3.861vw;
+    color:#bababa;
+}
+#para2{
+    font-family: 'Raleway Bold', 'Raleway';
+    line-height: 6.04vw;
+    font-size: 2.9vw;
+    color:#bababa;
+    margin-bottom: 10.06vw;
+}
+#footer{
+    margin-top: 1.05vw;
+}
+.img_resize{
+    height: 2.9vw;
+    width: 10.23vw;
+}
+#tme{
+    font-family: 'BebasNeueRegular';
+    font-size: 2.9vw;
+    color:#ffffff;
+    float: right;
+}

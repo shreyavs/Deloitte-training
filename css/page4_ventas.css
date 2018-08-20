@@ -1,0 +1,46 @@
+.main_news_page{
+    background-image: url("bg_img_pg3.png");
+    background-size: cover;
+}
+.contents{
+    width: 84vw;
+    margin: 8.05vw;
+}
+.middle-portion{
+    margin-top: 79.23vw;
+}
+#user_img{
+    height:7.73vw;
+    width: 7.73vw;
+
+}
+#user_id{
+    font-family: 'Raleway';
+    font-size: 2.9vw;
+    color:#ffffff;
+}
+#body_contents{
+    position: absolute;
+}
+#tme{
+    margin-top: 10.23vw;
+    font-family: 'BebasNeueRegular';
+    font-size: 2.9vw;
+    color:#ffffff;
+}
+#para{
+    margin-top: 7.57vw;
+    margin-bottom: 8.05vw;
+    font-family: 'Raleway Heavy';
+    font-size: 8.21vw;
+    color:#ffffff;
+}
+.img_resize{
+    height: 2.9vw;
+    width: 10.23vw;
+}
+#icon_resize{
+    margin-top: 6.12vw;
+    height:7.65vw;
+    width: 7.65vw;
+}

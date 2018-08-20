@@ -1,0 +1,30 @@
+body{
+
+    position: relative;
+    margin-left: 200px;
+    
+}
+#submit{
+    padding:5px;
+    margin-top:5px;
+    margin-bottom:5px;
+    width:100px;
+}
+#heading{
+    margin:50px;
+}
+.class_img{
+    margin:10px;
+}
+#mybutton{
+    margin: 10px;
+    float:left;
+}
+#table_id{
+    margin: 10px;
+    float:left;
+}
+#table_id,th,td{
+    border: 1px solid black;
+    padding: 5px;
+}

@@ -1,0 +1,100 @@
+.mainPage{
+    background-image: url("start_page_bg.png") ;
+    /* background-repeat: no-repeat; */
+
+    background-size: cover;
+}
+/* .header{
+    margin-top:
+} */
+
+.spaces{
+    height: 10vw;
+}
+.spaces1{
+    height: 35vw;
+}
+.spaces2{
+    height: 75vw;
+    
+}
+.spaces3{
+    margin-bottom:10%;
+}
+#myCarousel{
+    width:100%;
+}
+.mainPageTwo{
+    margin-left:-15px !important;
+    margin-right:-15px !important;
+}
+.header_pagetwo{
+    width:100%;
+}
+.glyphicon-menu-hamburger{
+    font-size: 7vw;
+    padding-left: 10vw;
+}
+.header_pagetwo{
+    position: absolute;
+    z-index: 1;
+    margin-top:2vw;
+    color:white;
+}
+.header_text{
+    font-size: 7vw;
+    text-align: center;
+}
+.glyphicon-search{
+    font-size: 7vw;
+    text-align: right;
+}
+.p2_spaces{
+    height:1vw;
+}
+.navbar{
+    text-align: center;
+    padding-top:3vw;
+    height:9vw;
+}
+a{
+    color: black;
+}
+.p2_image{
+    padding-bottom: 7vw;
+}
+.p2_content{
+    padding-bottom: 7vw;
+}
+.p2_footer{
+    padding-bottom: 5vw;
+    padding-top: 5vw;
+    border-top:solid 0.5px;
+    border-bottom:solid 0.5px;
+    border-color: lightgrey;
+    text-align: center; 
+}
+.header_pagethree{
+    height:21vw;
+    padding-top: 5vw;
+}
+.messages{
+    border-top:solid 0.5px;
+    border-bottom:solid 0.5px;
+    border-color: lightgrey;
+}
+.messages1{
+margin-left: 5vw;
+padding-top:4vw;
+}
+.messagesTime{
+    padding-top:5vw;
+}
+.p3_footer{
+    padding-bottom: 5vw;
+    padding-top: 5vw;
+    border-top:solid 0.5px;
+    border-bottom:solid 0.5px;
+    border-color: lightgrey;
+    text-align: center; 
+}
