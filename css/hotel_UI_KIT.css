@@ -124,8 +124,10 @@
     background-color: #ffffff;
 }
 .stats_navbar_list li{
+    list-style-type: none;
     float: left;
     border-right: 1px solid #bbb;
+    padding:5px;
 }
 .stats_navbar_list li:last-child{
     border-right: none;
@@ -134,7 +136,7 @@
     display:block;
     color:#966a4d;
     text-align:center;
-    padding:14px 16px;
+    
     text-decoration: none;
     font-size:12px;
     font-family:'Montserrat';
@@ -146,10 +148,10 @@
     background-color: #e2be6b;
 }
 .stats_navbar{
-    width:217px;
+    width: 245px;
     position: relative;
-    bottom: 25px;
-    right:35px;
+    bottom: 80px;
+    right: 75px;
     float: right;
 }
 #chart_div{
